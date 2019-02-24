@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "outDir": "./dist",
+    "preserveConstEnums": true,
+    "target": "es2015",
+    "removeComments": true
+  },
+  "filesGlob": [
+    "typings/*.d.ts",
+    "src/**/*.ts"
+  ]
+  //  "files": [
+  //    "src\\greeter.ts"
+  //  ]
+}
